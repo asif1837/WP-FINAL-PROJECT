@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #27ae60;
+}
+
+#searchProduct{
+    margin-left: 320px;
+    margin-top: 20px;
+}
+#updateProduct{
+    margin-left: 320px;
+    margin-top: 20px;
+}
+
+
+#heading1{
+    font-family: 'Segoe UI';
+    text-decoration: azure;
+    text-shadow: burlywood;
+    text-align: center;
+}
+#lpname, #lpprice, #lpquantity, #lptype, #lpdate, #lpid{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    color: #9b59b6;
+
+}
+#pname, #pprice, #pquantity, #ptype, #pdate, #pid{
+    border-color:#1C74A1;
+    border-style: solid;
+    
+}
+#submit, #reset, #update{
+    background-color: #13445D; /* Green */
+    color: white;
+    margin-left: auto;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 10px;
+    align-items: center;
+}
+#legend{
+    border-color: #89B8D1;
+    font-family: Arial;
+}
+#error{
+    border-color: black;
+    background-color: red;
+
+}
+
+

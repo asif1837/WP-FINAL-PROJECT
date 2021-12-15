@@ -1,0 +1,41 @@
+
+.menuclient{
+
+    background-color: #34495e;
+    display:flex;
+    justify-content: flex-start;
+}
+.menuclient a{
+text-decoration: none;
+padding: 25px;
+color:white;
+}
+.menuclient #an1{
+    text-decoration: wavy;
+    color: #1abc9c;
+    text-shadow: cadetblue;
+    
+}
+footer {
+    margin-top: 60px;
+    text-align: center;
+    padding: 10px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+
+#images1, #para{
+   margin-top: 20px;
+   margin-left: 20px;
+}
+
+#para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    border: #34495e 5px solid;
+    padding: 5px;
+
+}
+span{
+    font-style:oblique;
+}
